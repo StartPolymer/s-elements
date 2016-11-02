@@ -1,0 +1,18 @@
+{
+  "name": "s-elements",
+  "description": "StartPolymer elements.",
+  "keywords": [
+    "StartPolymer",
+    "element-collection"
+  ],
+  "authors": [
+    "The StartPolymer Project Authors (https://github.com/StartPolymer/authors)"
+  ],
+  "license": "https://github.com/StartPolymer/license",
+  "dependencies": {
+    "s-html": "StartPolymer/s-html",
+    "s-markdown": "StartPolymer/s-markdown",
+    "s-svg": "StartPolymer/s-svg"
+  },
+  "private": true
+}
