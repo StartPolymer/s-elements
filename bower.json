@@ -8,7 +8,7 @@
   "authors": [
     "The StartPolymer Project Authors (https://github.com/StartPolymer/authors)"
   ],
-  "license": "https://github.com/StartPolymer/license",
+  "license": "MIT",
   "dependencies": {
     "s-html": "StartPolymer/s-html",
     "s-markdown": "StartPolymer/s-markdown",
