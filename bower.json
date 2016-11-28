@@ -13,6 +13,7 @@
     "s-html": "StartPolymer/s-html",
     "s-markdown": "StartPolymer/s-markdown",
     "s-rating": "StartPolymer/s-rating",
+    "s-slider": "StartPolymer/s-slider",
     "s-svg": "StartPolymer/s-svg"
   },
   "private": true
