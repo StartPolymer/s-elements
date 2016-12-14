@@ -10,6 +10,7 @@
   ],
   "license": "MIT",
   "dependencies": {
+    "s-circle-progress": "StartPolymer/s-circle-progress",
     "s-html": "StartPolymer/s-html",
     "s-markdown": "StartPolymer/s-markdown",
     "s-rating": "StartPolymer/s-rating",
