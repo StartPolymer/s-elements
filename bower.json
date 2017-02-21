@@ -16,7 +16,8 @@
     "s-checkbox": "StartPolymer/s-checkbox",
     "s-rating": "StartPolymer/s-rating",
     "s-slider": "StartPolymer/s-slider",
-    "s-svg": "StartPolymer/s-svg"
+    "s-svg": "StartPolymer/s-svg",
+    "s-table": "StartPolymer/s-table"
   },
   "private": true
 }
