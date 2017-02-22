@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "s-circle-progress": "StartPolymer/s-circle-progress",
+    "s-grid": "StartPolymer/s-grid",
     "s-html": "StartPolymer/s-html",
     "s-markdown": "StartPolymer/s-markdown",
     "s-checkbox": "StartPolymer/s-checkbox",
